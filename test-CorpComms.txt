@@ -1,0 +1,9 @@
+DLP Test Email – Outgoing
+Sent from FIS Laptop while logged in to FNFIS domain.
+
+Message Contains Keywords:
+FIS Corporate Communications 
+FIS.Corporate.Communications@fisglobal.com
+
+Use Case: Insider forwarding internal communications or org announcements to an external email address.
+Sent by request by a member of “IIT-DLP-PolicyTesting”.
